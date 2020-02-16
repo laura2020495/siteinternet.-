@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-family: arial;
+}
+
+.bg-image {
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-purple {
+    color: #003459;
+    background-color: yellow;
+    border-color: yellow;
+}
+
+div.main {
+    margin-top: 75px;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+color: #003459;
+}
+
+h1{
+    font-size: 90px;
+    font-weight: 900;
+    color: yellow;
+}
+
+h3{
+    font-size: 25px;
+    color: #003459;
+}
+
+p{
+    font-size: 20px;
+}
